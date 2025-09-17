@@ -23,7 +23,7 @@
 		"@nuxtjs/seo": "^2.0.2",
 		"@vueuse/core": "^12.2.0",
 		"@vueuse/nuxt": "^12.2.0",
-		"nuxt": "^3.15.0",
+		"nuxt": "^3.19.0",
 		"vue": "latest",
 		"vue-router": "latest"
 	},
